@@ -74,7 +74,7 @@ This dashboard delivers significant business impact by providing actionable insi
 
 -->.Performance Benchmarking: Allows for easy comparison of performance across different cities, brands, or time periods, driving competitive analysis.
 
-5. Image of the Dashboard : ![Image Alt](image_url)
+5. Image of the Dashboard : ![Image Alt](https://github.com/sneha-jadon/Mobile_Sales_Dashboard/blob/b301600b67fb52a425e1e4e3d95d340ccfed1a8a/Screenshot%202025-02-19%20195534.png)
 
  
    
